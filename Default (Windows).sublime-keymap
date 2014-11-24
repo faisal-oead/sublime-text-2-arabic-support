@@ -1,0 +1,10 @@
+[
+	{
+		"keys": ["ctrl+b"],
+		"command": "bidi"
+	},
+	{
+		"keys": ["ctrl+u"],
+		"command": "bidiselection"
+	}
+]
