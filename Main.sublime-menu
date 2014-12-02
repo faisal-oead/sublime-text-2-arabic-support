@@ -7,12 +7,12 @@
         [
             {"caption":"-"},
             {
-                "caption": "Bidirectional text",
+                "caption": "تعريب المستند",
                 "mnemonic": "B",
                 "command": "bidi"
             },
             {
-                "caption": "Bidirectional selection",
+                "caption": "تعريب التحديد",
                 "mnemonic": "S",
                 "command": "bidiselection"
             }

@@ -1,10 +1,10 @@
 [
 	{
-		"caption": "Bidirectional text",
+		"caption": "تعريب المستند",
 		"command": "run_bidi"
 	},
 	{
-		"caption": "Bidirectional selection",
+		"caption": "تعريب التحديد",
 		"command": "run_bidiselection"
 	}
 ]
