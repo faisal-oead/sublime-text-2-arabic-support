@@ -3,7 +3,7 @@
 # This work is licensed under the GNU Public License (GPL).
 # To view a copy of this license, visit http://www.gnu.org/copyleft/gpl.html
 # Written by praveen vijayan (praveenvijayan)
-# tweaked by faisal oead
+# Written  by faisal oead 
 
 import sublime, sublime_plugin, sys
 import arabic_reshaper
